@@ -15,12 +15,12 @@ In the Developer Portal, add the following redirects:
 
 # Firewall setup
 
-[^1]: Open Firewall.
-[^2]: Open Advanced Firewall settings.
-[^3]: Inbound rules.
-[^4]: New rules.
-[^5]: Port.
-[^6]: 8080.
+##### Open the firewall settings.
+- Navigate to Advanced Firewall settings.
+- Access Inbound Rules.
+- Create a new rule.
+- Select "Port" as the rule type.
+- Specify port number 8080.
 
 After done 
 
