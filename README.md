@@ -11,7 +11,7 @@ After completing the basic setup, the final step involves configuring the redire
 
 In the Developer Portal, add the following redirects:
 - http://24.24.24.24:8080
-- http://24.24.24.24:8080/nig
+- http://24.24.24.24:8080/success
 
 # Firewall setup
 
